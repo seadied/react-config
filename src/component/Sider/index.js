@@ -23,7 +23,7 @@ const Siderr = () => {
                         <Link to="/about">关于</Link>
                     </Menu.Item>
                     <Menu.Item key="3">
-                        <Link to="/jenkins">jenkins</Link>
+                        <Link to="/jenkins">Jenkins</Link>
                     </Menu.Item>
                 </SubMenu>
 
