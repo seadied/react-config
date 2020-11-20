@@ -22,6 +22,9 @@ const Siderr = () => {
                     <Menu.Item key="2">
                         <Link to="/about">关于</Link>
                     </Menu.Item>
+                    <Menu.Item key="3">
+                        <Link to="/jenkins">jenkins</Link>
+                    </Menu.Item>
                 </SubMenu>
 
             </Menu>

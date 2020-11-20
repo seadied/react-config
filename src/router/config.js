@@ -1,7 +1,7 @@
 import Home from '../component/Home/index.js'
 import About from '../component/About/index.js'
 import Layout from '../component/Layout/index.js'
-
+import Jenkins from '../component/Jenkins/index.js'
 export const routes = [
     {
         path: '/',
@@ -19,6 +19,10 @@ export const routes = [
             {
                 path: '/about',
                 component: About
+            },
+            {
+                path: '/jenkins',
+                component: Jenkins
             }
 
         ]
